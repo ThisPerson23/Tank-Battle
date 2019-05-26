@@ -1,0 +1,6 @@
+C:\Users\damnp\Documents\GodotProjects\Tank Battle\.mono\temp\bin\Tools\Tank Battle.dll
+C:\Users\damnp\Documents\GodotProjects\Tank Battle\.mono\temp\bin\Tools\Tank Battle.pdb
+C:\Users\damnp\Documents\GodotProjects\Tank Battle\.mono\temp\obj\Tools\Tank Battle.csprojAssemblyReference.cache
+C:\Users\damnp\Documents\GodotProjects\Tank Battle\.mono\temp\obj\Tools\Tank Battle.csproj.CoreCompileInputs.cache
+C:\Users\damnp\Documents\GodotProjects\Tank Battle\.mono\temp\obj\Tools\Tank Battle.dll
+C:\Users\damnp\Documents\GodotProjects\Tank Battle\.mono\temp\obj\Tools\Tank Battle.pdb
